@@ -1,0 +1,56 @@
+
+h1 {
+
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(160, 122, 242);
+    font-size: 3rem;
+}
+
+body, 
+h2, h3, p{
+
+    font-family: 'Press Start 2P', cursive;
+
+    background-color: rgb(41, 5, 139);
+    color: white;
+
+}
+header {
+    height: 1300px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
+ul{
+    background: rgb(164, 91, 219);
+    padding: 20px;
+    border-radius: 15px;
+    list-style: none;
+}
+
+li{
+    display: inline;
+    color: white;
+    margin: 5px;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: white;
+}
+
+a:hover{
+    color: rgb(255, 135, 219);
+}
+
+.FOTITO:hover{
+width: 1000px;
+}
+
+
+::-webkit-scrollbar{
+    display: none;
+}
